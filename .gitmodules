@@ -1,4 +1,4 @@
 [submodule "NAO-bot-documentation"]
 	path = NAO-bot-documentation
-	url = https://github.com/1ssb/NAO-bot-documentation.git
+	url = git@github.com:1ssb/NAO-bot-documentation.git
 	branch = main
